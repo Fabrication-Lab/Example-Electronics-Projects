@@ -7,24 +7,26 @@ Connect The servo
 
 ## 2. Sensor Setup
 
-<img src="https://raw.githubusercontent.com/DFRobot/DFRobotMediaWikiImage/master/Image/DFR0026.JPG" style="width:100;height:300;">
-In this example, we use an Analog light sensor by DfRobot but the basic principle for analog sensors is the same for Connect the S
+<img src="https://raw.githubusercontent.com/DFRobot/DFRobotMediaWikiImage/master/Image/DFR0026.JPG" style="width:300px;height:auto;">
+In this example, we use an [Analog light sensor](https://wiki.dfrobot.com/DFRobot_Ambient_Light_Sensor_SKU_DFR0026) by DfRobot but the basic wiring principle is the same for almost all analog sensor. 
 
-## 3. Import an fSpy project file
 
-Once the add-on is installed and activated, fSpy project files can be imported by selecting _fSpy_ from the _Import_ menu. This will create a camera with the same name as the imported project file.
 
-![Import menu](readme_images/help_import_menu.png)
+ <ul>
+  <li>1. Connect the Sensor ground(Black) to ground on the Breadboard or Arduino Board(GND).</li>
+  <li>2. Connect the Sensor Power(Red) to the Breadboard or Arduino Board(5V/VCC) </li>
+  <li>3. Connect the Sensor Signal(Green/Blue) to the Arduino Board Analog port 0(A0)</li>
+</ul> 
 
-### Import settings
+## 3. Run The Project
 
-At the bottom left in the importer's file browser, there is a panel with import settings.
+ <ul>
+  <li>1. Download the [ServoLightSensor](https://github.com/Fabrication-Lab/Example-Electronics-Projects/blob/main/ServoLightSensor/ServoLightSensor.ino)  file</li>
+  <li>2. Open in Arduino IDE</li>
+  <li>3. Run it!</li>
+  <li>3. The the Servo arm should now respond to changes in the amout of light recived from the light sensor.</li>
+</ul> 
 
-![Import settings](readme_images/help_import_settings.png)
-
-__Update existing import (if any)__ - If checked, any previously created camera with a name matching the project filename will be updated. If unchecked, a new camera will be created on each import. 
-
-__Import background image__ - If checked, the image from the fSpy project file will be used as the background image for the Blender camera.
 
 
 
