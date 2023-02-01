@@ -7,7 +7,7 @@ Connect The servo
 
 ## 2. Sensor Setup
 
-<img src="https://raw.githubusercontent.com/DFRobot/DFRobotMediaWikiImage/master/Image/DFR0026.JPG" style="width:300;height:auto;">
+<img src="https://raw.githubusercontent.com/DFRobot/DFRobotMediaWikiImage/master/Image/DFR0026.JPG" style="width:100;height:auto;">
 In this example, we use an Analog light sensor by DfRobot but the basic principle for analog sensors is the same for Connect the S
 
 ## 3. Import an fSpy project file
