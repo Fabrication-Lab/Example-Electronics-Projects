@@ -1,6 +1,6 @@
-### Hi, I'm Reuben. I like to make games and a bunch of other things
+### Instrcutions
 
-<img src="https://pbs.twimg.com/media/FHyEk02XwAgYH8S?format=jpg&name=large" style="width:auto;height:auto;">
+<img src="https://github.com/Fabrication-Lab/Example-Electronics-Projects/blob/main/ServoLightSensor/Servo%20Light%20Sensor.png" style="width:auto;height:auto;">
 
 <p align="center" >  
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
