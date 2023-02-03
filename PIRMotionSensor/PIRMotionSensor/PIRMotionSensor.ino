@@ -18,7 +18,6 @@ void loop(){
     
     if (state == LOW) {
       Serial.println("Motion detected!"); 
-      Serial.println(val);
       state = HIGH;       // update variable state to HIGH
     }
   } 
