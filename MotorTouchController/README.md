@@ -1,5 +1,5 @@
 
-# Getting started
+# Template. remember to update me!
 <img src="https://github.com/Fabrication-Lab/Example-Electronics-Projects/blob/main/ServoLightSensor/Servo%20Light%20Sensor%20Circuit%20Diagram.png" style="width:800px;height:auto;">
 
 ## 1. Servo Setup
