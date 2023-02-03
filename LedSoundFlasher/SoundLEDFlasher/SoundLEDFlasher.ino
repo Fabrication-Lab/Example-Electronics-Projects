@@ -1,4 +1,5 @@
-#define SoundSensorPin A1  //this pin read the analog voltage from the sound level meter
+//using DFRobot Alnalog Sould Level Meter v1.0
+#define SoundSensorPin A1  //Connect Stepper Motor Driver STEP pin to Anaolog
 #define VREF  5.0         //voltage on AREF pin,default:operating voltage
 
 
@@ -12,11 +13,11 @@ void setup()
 
 void loop()
 {
-    float voltageValue;                                          //create variable to store the voltage value
+    float voltageValue;                                         //create variable to store the voltage value
     float dbValue;                                              //create variable to store the decible value
-    voltageValue = analogRead(SoundSensorPin) / 1024.0 * VREF;  // get the decible level in the form of a voltage signal
+    voltageValue = analogRead(SoundSensorPin) / 1024.0 * VREF;  //get the decible level in the form of a voltage signal
     dbValue = voltageValue * 50.0;                              //convert voltage to decibel value
-    Serial.println(dbValue,1);                                    //print the decible value
+    Serial.println(dbValue,1);                                  //print the decible value
     delay(125);                                                 //wait a short amout
 
     if(dbValue>=decibleTreshhold)
