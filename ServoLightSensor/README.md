@@ -1,6 +1,6 @@
 
 # Getting started
-<img src="https://github.com/Fabrication-Lab/Example-Electronics-Projects/blob/main/ServoLightSensor/Servo%20Light%20Sensor%20Circuit%20Diagram.png" style="width:800px;height:auto;">
+<img src="https://github.com/Fabrication-Lab/Example-Electronics-Projects/blob/Added-fritzing-components/ServoLightSensor/ServoAmbientLightSensor.png" style="width:800px;height:auto;">
 
 ## 1. Servo Setup
 <img src="https://cdn.shopify.com/s/files/1/2311/3697/products/sg92r-digital-micro-servo-carbon-fiberglass-gear-arm-set-motors-towerpro-cool-components-615_800x600.jpg" style="width:300px;height:auto;">
