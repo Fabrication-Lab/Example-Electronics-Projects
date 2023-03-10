@@ -4,7 +4,7 @@
 We will be using the ada fruit PIR sensor and an LED strip to display that the sensor is being picked up
 
 ## The sensor
-<img src="https://learn.adafruit.com/assets/503" style="width:300px;height:auto;">
+<img src="https://github.com/Fabrication-Lab/Example-Electronics-Projects/blob/Added-fritzing-components/PIRMotionSensor/proximity_pirsensor.jpg" style="width:300px;height:auto;">
 
 We will be using [PIR sensor](https://learn.adafruit.com/pir-passive-infrared-proximity-motion-sensor) this will used in our example.
 
