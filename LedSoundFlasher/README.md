@@ -2,15 +2,15 @@
 # Getting started
 <img src="https://github.com/Fabrication-Lab/Example-Electronics-Projects/blob/main/ServoLightSensor/Servo%20Light%20Sensor%20Circuit%20Diagram.png" style="width:800px;height:auto;">
 
-## 1. Servo Setup
+## 1. LED Setup
 <img src="https://cdn.shopify.com/s/files/1/2311/3697/products/sg92r-digital-micro-servo-carbon-fiberglass-gear-arm-set-motors-towerpro-cool-components-615_800x600.jpg" style="width:300px;height:auto;">
 
-In This example, we use a Servo to 
+In this example we are using a simple LED shown in the fritzing example
 
 ## 2. Sensor Setup
 
 <img src="https://raw.githubusercontent.com/DFRobot/DFRobotMediaWikiImage/master/Image/DFR0026.JPG" style="width:300px;height:auto;">
-In this example, we use an [Analog light sensor](https://wiki.dfrobot.com/DFRobot_Ambient_Light_Sensor_SKU_DFR0026) by DfRobot but the basic wiring principle is the same for almost all analog sensors. 
+In this example, we use an [Adafruit Silicon MEMS Microphone Breakout](https://www.adafruit.com/product/2716) but the basic wiring principle is the same for almost all analog sensors. 
 
 
 
@@ -23,7 +23,7 @@ In this example, we use an [Analog light sensor](https://wiki.dfrobot.com/DFRobo
 ## 3. Run The Project
 
  <ul>
-  <li>1. Download the [ServoLightSensor](https://github.com/Fabrication-Lab/Example-Electronics-Projects/blob/main/ServoLightSensor/ServoLightSensor.ino)  file</li>
+  <li>1. Download the [NEED TO BE CHANGED](https://github.com/Fabrication-Lab/Example-Electronics-Projects/blob/main/ServoLightSensor/ServoLightSensor.ino)  file</li>
   <li>2. Open in Arduino IDE</li>
   <li>3. Run it!</li>
   <li>3. The the Servo arm should now respond to changes in the amout of light recived from the light sensor.</li>
