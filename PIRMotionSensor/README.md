@@ -1,5 +1,5 @@
 # PIR Sensor with LED Project
-<img src="https://github.com/Fabrication-Lab/Example-Electronics-Projects\PIRMotionSensor\Fritzing.png" style="width:800px;height:auto;">
+<img src="https://github.com/Fabrication-Lab/Example-Electronics-Projects/blob/Added-fritzing-components/PIRMotionSensor/Fritzing.png" style="width:800px;height:auto;">
 
 We will be using the ada fruit PIR sensor and an LED strip to display that the sensor is being picked up
 
