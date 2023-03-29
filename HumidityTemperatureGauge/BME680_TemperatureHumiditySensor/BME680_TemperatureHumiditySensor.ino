@@ -1,4 +1,3 @@
-//ensure that  DFRobot_BME680 is installed from https://github.com/DFRobot/DFRobot_BME680 
 #include "DFRobot_BME680_I2C.h"
 #include "Wire.h"
 #include<Servo.h>//include servo library
@@ -23,14 +22,14 @@ void setup()
   while (rslt != 0) {
     rslt = bme.begin();
     if (rslt != 0) {
-      Serial.println("bme begin failure");
+      Serial.println("bme begin failure"); //Will give a signal for failure 
       delay(2000);
     }
   }
-  Serial.println("bme begin successful");
+  Serial.println("bme begin successful"); //Will give a signal for success
 }
 
-void loop()
+void loop() //This is a constant loop for the gauge to physically show the humidity and temperature
 {
   bme.startConvert();
   delay(1000);
