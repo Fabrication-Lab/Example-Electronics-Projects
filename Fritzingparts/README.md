@@ -18,17 +18,17 @@ This MINE tab is a "bin" that will show your individual imported parts that you 
 ## 3. Import
 You will have to import the part now, to do this you **right click** in the empty space
 
-<img src="https://github.com/Fabrication-Lab/Example-Electronics-Projects/blob/Added-fritzing-components/Fritzingparts/Images/Images3.PNG" style="width:400px;height:auto">
+<img src="https://github.com/Fabrication-Lab/Example-Electronics-Projects/blob/Added-fritzing-components/Fritzingparts/Images/Images3.PNG" style="width:300px;height:auto">
 
 Then on the drop down menu click on import
 
-<img src="https://github.com/Fabrication-Lab/Example-Electronics-Projects/blob/Added-fritzing-components/Fritzingparts/Images/Images4.PNG" style="width:400px;height:auto">
+<img src="https://github.com/Fabrication-Lab/Example-Electronics-Projects/blob/Added-fritzing-components/Fritzingparts/Images/Images4.PNG" style="width:300px;height:auto">
 
 ## 4. Import the wanted Part or Bin
 In the file window click on the wanted file or bin that you need
 <font size="1"> Note: that you cannot select multiple items at once, you will </font>
 
-<img src="https://github.com/Fabrication-Lab/Example-Electronics-Projects/blob/Added-fritzing-components/Fritzingparts/Images/Images4.PNG" style="width:400px;height:auto">
+<img src="https://github.com/Fabrication-Lab/Example-Electronics-Projects/blob/Added-fritzing-components/Fritzingparts/Images/Images4.PNG" style="width:300px;height:auto">
 
 
 
