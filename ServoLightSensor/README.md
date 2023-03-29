@@ -1,18 +1,22 @@
 
 # Getting started
+This is a simple light sensor, this uses the DFRobot Ambient Light sensor and a servo motor that will respond to a certain light level.
+
 <img src="https://github.com/Fabrication-Lab/Example-Electronics-Projects/blob/Added-fritzing-components/ServoLightSensor/ServoAmbientLightSensor.png" style="width:800px;height:auto;">
 
 ## 1. Servo Setup
 <img src="https://cdn.shopify.com/s/files/1/2311/3697/products/sg92r-digital-micro-servo-carbon-fiberglass-gear-arm-set-motors-towerpro-cool-components-615_800x600.jpg" style="width:300px;height:auto;">
 
-In This example, we use a Servo to 
+<ul>
+ <li>1. Connect the Servo Power(Red) to the Breadboard or Arduino(5V/VCC)</li>
+ <li>2. Connect the Servo Ground(Black) to the Breadboard or Arduino(GND)</li>
+ <li>3. Connect the Servo Signal(Yellow) to the Breadboard or Arduino Digital Port 9</li>
+</ul>
 
 ## 2. Sensor Setup
 
 <img src="https://raw.githubusercontent.com/DFRobot/DFRobotMediaWikiImage/master/Image/DFR0026.JPG" style="width:300px;height:auto;">
 In this example, we use an [Analog light sensor](https://wiki.dfrobot.com/DFRobot_Ambient_Light_Sensor_SKU_DFR0026) by DfRobot but the basic wiring principle is the same for almost all analog sensors. 
-
-
 
  <ul>
   <li>1. Connect the Sensor ground(Black) to ground on the Breadboard or Arduino Board(GND).</li>
@@ -28,6 +32,9 @@ In this example, we use an [Analog light sensor](https://wiki.dfrobot.com/DFRobo
   <li>3. Run it!</li>
   <li>3. The the Servo arm should now respond to changes in the amout of light recived from the light sensor.</li>
 </ul> 
+
+_Note: You can change the light sensor value go to val_
+
 
 
 
