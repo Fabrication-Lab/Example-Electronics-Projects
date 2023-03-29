@@ -3,9 +3,9 @@
 
 In this tutorial we will be showing you how to import parts into the fritzing software. 
 <u>
- <li> 1. [Opening the Software](https://github.com/Fabrication-Lab/Example-Electronics-Projects/tree/Added-fritzing-components/Fritzingparts#1-opening-the-software)</li>
- <li> [2. Go over to the MINE TAB]() </li>
- <li> 3. Importing the parts
+ <li> [1. Opening the Software](https://github.com/Fabrication-Lab/Example-Electronics-Projects/tree/Added-fritzing-components/Fritzingparts#1-opening-the-software)</li>
+ <li> [2. Go over to the MINE TAB](https://github.com/Fabrication-Lab/Example-Electronics-Projects/tree/Added-fritzing-components/Fritzingparts#2-go-over-to-the-mine-tab) </li>
+ <li> [3. Importing the parts](https://github.com/Fabrication-Lab/Example-Electronics-Projects/tree/Added-fritzing-components/Fritzingparts#3-import)</li>
 </ul> 
 </font>
 
