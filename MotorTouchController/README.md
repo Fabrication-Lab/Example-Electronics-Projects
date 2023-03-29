@@ -1,6 +1,6 @@
 
 # Template. remember to update me!
-<img src="https://github.com/Fabrication-Lab/Example-Electronics-Projects/blob/main/ServoLightSensor/Servo%20Light%20Sensor%20Circuit%20Diagram.png" style="width:800px;height:auto;">
+<img src="https://github.com/Fabrication-Lab/Example-Electronics-Projects\MotorTouchController/ServoTouchSensor.png" style="width:800px;height:auto;">
 
 ## 1. Servo Setup
 <img src="https://cdn.shopify.com/s/files/1/2311/3697/products/sg92r-digital-micro-servo-carbon-fiberglass-gear-arm-set-motors-towerpro-cool-components-615_800x600.jpg" style="width:300px;height:auto;">
@@ -9,7 +9,7 @@ In This example, we use a Servo to
 
 ## 2. Sensor Setup
 
-<img src="https://raw.githubusercontent.com/DFRobot/DFRobotMediaWikiImage/master/Image/DFR0026.JPG" style="width:300px;height:auto;">
+<img src="https://dfimg.dfrobot.com/data/DFR0030/20140710/_DSC0733.jpg?imageView2/1/w/564/h/376" style="width:300px;height:auto;">
 In this example, we use an [Analog light sensor](https://wiki.dfrobot.com/DFRobot_Ambient_Light_Sensor_SKU_DFR0026) by DfRobot but the basic wiring principle is the same for almost all analog sensors. 
 
 
