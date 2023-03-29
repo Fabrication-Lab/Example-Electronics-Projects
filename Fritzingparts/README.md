@@ -31,7 +31,19 @@ In this tutorial we will be showing you how to import parts into the fritzing so
 
 <font size="1">_Note: that you cannot select multiple items at once, you will_</font>
 
-<img src="https://github.com/Fabrication-Lab/Example-Electronics-Projects/blob/Added-fritzing-components/Fritzingparts/Images/Images4.PNG" style="width:300px;height:auto">
+<img src="https://github.com/Fabrication-Lab/Example-Electronics-Projects/blob/Added-fritzing-components/Fritzingparts/Images/Images5.PNG" style="width:300px;height:auto">
+
+## 5. Use the part
+You can now use the imported parts.
+
+For individual Imported Parts you can go over to the mine tab and find them there.
+
+<img src="https://github.com/Fabrication-Lab/Example-Electronics-Projects/blob/Added-fritzing-components/Fritzingparts/Images/Images6.PNG" style="width:300px;height:auto">
+
+But for bins you will find them in a seperate tab, you will likely have to scroll down to the bottom of the tab and find the bin.
+
+_This is an example using the DFRobot Fritzing Library_
+<img src="https://github.com/Fabrication-Lab/Example-Electronics-Projects/blob/Added-fritzing-components/Fritzingparts/Images/Images6.PNG" style="width:300px;height:auto">
 
 
 
