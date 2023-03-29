@@ -27,7 +27,8 @@ In this tutorial we will be showing you how to import parts into the fritzing so
 <img src="https://github.com/Fabrication-Lab/Example-Electronics-Projects/blob/Added-fritzing-components/Fritzingparts/Images/Images4.PNG" style="width:300px;height:auto">
 
 ## 4. Import the wanted Part or Bin
-In the file window click on the wanted file or bin that you need.
+<font size="2">In the file window click on the wanted file or bin that you need.</font>
+
 <font size="1"> Note: that you cannot select multiple items at once, you will </font>
 
 <img src="https://github.com/Fabrication-Lab/Example-Electronics-Projects/blob/Added-fritzing-components/Fritzingparts/Images/Images4.PNG" style="width:300px;height:auto">
