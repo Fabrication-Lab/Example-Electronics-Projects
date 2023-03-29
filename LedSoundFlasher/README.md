@@ -1,6 +1,10 @@
 
-# Getting started
+# LED Sound Flasher
+
+## Getting started
 <img src="https://github.com/Fabrication-Lab/Example-Electronics-Projects/blob/Added-fritzing-components/LedSoundFlasher/LEDSoundFlasher_bb.png" style="width:800px;height:auto;">
+
+In this project we are setting up a simple microphone to detect at certain sound levels if it can detect sounds
 
 ## 1. Sensor Setup
 <img src="https://cdn-shop.adafruit.com/970x728/2716-04.jpg" style="width:300px;height:auto;">
@@ -13,13 +17,13 @@ In this example, we use an [Adafruit Silicon MEMS Microphone](https://www.adafru
   <li>3. Connect the Sensor AC(Green/Blue) to the Arduino Board Analog port 1(A1)</li>
 </ul> 
 
-## 2. Run The Project
+## . Run The Project
 
  <ul>
   <li>1. Download the [Arduino Code File](https://github.com/Fabrication-Lab/Example-Electronics-Projects/blob/Added-fritzing-components/LedSoundFlasher/Code/SoundLEDFlasher.ino)  file</li>
   <li>2. Open in Arduino IDE</li>
   <li>3. Run it!</li>
-  <li>3. The the Servo arm should now respond to changes in the amout of light recived from the light sensor.</li>
+  <li>3. The the more louder sound that is being given into the microphone, higher the voltage that goes inside the LED itself meaning a brighter light</li>
 </ul> 
 
 

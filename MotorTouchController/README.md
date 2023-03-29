@@ -1,5 +1,5 @@
 
-# Template. remember to update me!
+# Motor Touch Controller
 <img src="https://github.com/Fabrication-Lab/Example-Electronics-Projects/blob/Added-fritzing-components/MotorTouchController/Touch%20Servo_bb.png" style="width:800px;height:auto;">
 
 ## 1. EasyDriver Board Setup
