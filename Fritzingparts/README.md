@@ -3,9 +3,11 @@
 
 In this tutorial we will be showing you how to import parts into the fritzing software. 
 <u>
- <li> [1. Opening the Software](https://github.com/Fabrication-Lab/Example-Electronics-Projects/tree/Added-fritzing-components/Fritzingparts#1-opening-the-software)</li>
- <li> [2. Go over to the MINE TAB](https://github.com/Fabrication-Lab/Example-Electronics-Projects/tree/Added-fritzing-components/Fritzingparts#2-go-over-to-the-mine-tab) </li>
- <li> [3. Importing the parts](https://github.com/Fabrication-Lab/Example-Electronics-Projects/tree/Added-fritzing-components/Fritzingparts#3-import)</li>
+ <li> 1. Opening the Software</li>
+ <li> 2. Go over to the MINE TAB</li>
+ <li> 3. Import</li>
+ <li> 3.5. Import the wanted Part or Bin</li>
+ <li> 4. Using the part</li>
 </ul> 
 </font>
 
@@ -27,14 +29,14 @@ In this tutorial we will be showing you how to import parts into the fritzing so
 
 <img src="https://github.com/Fabrication-Lab/Example-Electronics-Projects/blob/Added-fritzing-components/Fritzingparts/Images/Images4.PNG" style="width:300px;height:auto">
 
-## 4. Import the wanted Part or Bin
+## 3.5. Import the wanted Part or Bin
 <font size="2">In the file window click on the wanted file or bin that you need.</font>
 
 <font size="1">_Note: that you cannot select multiple items at once, you will_</font>
 
 <img src="https://github.com/Fabrication-Lab/Example-Electronics-Projects/blob/Added-fritzing-components/Fritzingparts/Images/Images5.png" style="width:300px;height:auto">
 
-## 5. Use the part
+## 4. Use the part
 You can now use the imported parts.
 
 For individual Imported Parts you can go over to the mine tab and find them there.
