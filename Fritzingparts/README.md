@@ -1,4 +1,4 @@
-## Importing Fritzing Parts
+## Importing Fritzing Part
 <font size="2"> For the Fritzing Software we have some parts that are not available in the default fritzing library
 
 In this tutorial we will be showing you how to import parts into the fritzing software. 
