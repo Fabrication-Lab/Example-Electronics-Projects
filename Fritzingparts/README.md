@@ -5,7 +5,9 @@ In this tutorial we will be showing you how to import parts into the fritzing so
 
 ## 1. Opening the software
 Firstly open the fritzing software and look over to the window on the right with the subheading of parts
+<img src="https://github.com/Fabrication-Lab/Example-Electronics-Projects/blob/Added-fritzing-components/Fritzingparts/Images/Images1.PNG" style="width:300px;height:auto">
 
+## 2. 
 
 
 
