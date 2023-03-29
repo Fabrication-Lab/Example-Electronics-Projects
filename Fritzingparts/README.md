@@ -43,6 +43,7 @@ For individual Imported Parts you can go over to the mine tab and find them ther
 But for bins you will find them in a seperate tab, you will likely have to scroll down to the bottom of the tab and find the bin.
 
 _This is an example using the DFRobot Fritzing Library_
+
 <img src="https://github.com/Fabrication-Lab/Example-Electronics-Projects/blob/Added-fritzing-components/Fritzingparts/Images/Images6.png" style="width:300px;height:auto">
 
 
