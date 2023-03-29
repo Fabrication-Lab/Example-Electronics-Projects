@@ -3,8 +3,9 @@
 
 In this tutorial we will be showing you how to import parts into the fritzing software. 
 <u>
- <li> 1. Opening the Software</li>
- <li> 2. Go over to the MINE TAB </li>
+ <li> 1. [Opening the Software](https://github.com/Fabrication-Lab/Example-Electronics-Projects/tree/Added-fritzing-components/Fritzingparts#1-opening-the-software)</li>
+ <li> [2. Go over to the MINE TAB]() </li>
+ <li> 3. Importing the parts
 </ul> 
 </font>
 
@@ -44,7 +45,8 @@ But for bins you will find them in a seperate tab, you will likely have to scrol
 
 _This is an example using the DFRobot Fritzing Library_
 
-<img src="https://github.com/Fabrication-Lab/Example-Electronics-Projects/blob/Added-fritzing-components/Fritzingparts/Images/Images6.png" style="width:300px;height:auto">
+<img src="https://github.com/Fabrication-Lab/Example-Electronics-Projects/blob/Added-fritzing-components/Fritzingparts/Images/Images7.png" style="width:300px;height:auto">
+
 
 
 
