@@ -5,7 +5,7 @@
 ## 1. Sensor Setup
 <img src="https://cdn-shop.adafruit.com/970x728/2716-04.jpg" style="width:300px;height:auto;">
 
-In this example we are using a small MEMS breakout board but this can be applied to most audio detecting boards.
+In this example, we use an [Adafruit Silicon MEMS Microphone](https://www.adafruit.com/product/2716) but the basic wiring principle is the same for almost all analog sensors. 
 
  <ul>
   <li>1. Connect the Sensor Ground(Black) to ground on the Breadboard or Arduino Board(GND).</li>
@@ -13,15 +13,7 @@ In this example we are using a small MEMS breakout board but this can be applied
   <li>3. Connect the Sensor AC(Green/Blue) to the Arduino Board Analog port 1(A1)</li>
 </ul> 
 
-## 2. Sensor Setup
-
-<img src="https://raw.githubusercontent.com/DFRobot/DFRobotMediaWikiImage/master/Image/DFR0026.JPG" style="width:300px;height:auto;">
-In this example, we use an [Adafruit Silicon MEMS Microphone](https://www.adafruit.com/product/2716) but the basic wiring principle is the same for almost all analog sensors. 
-
-
-
-
-## 3. Run The Project
+## 2. Run The Project
 
  <ul>
   <li>1. Download the [Arduino Code File](https://github.com/Fabrication-Lab/Example-Electronics-Projects/blob/Added-fritzing-components/LedSoundFlasher/Code/SoundLEDFlasher.ino)  file</li>
